@@ -1,3 +1,5 @@
+package Vetores;
+
 public class q1 {
     public static void main(String[] args) {
         int[] A = {1, 0, 5, -2, -5, 7};
